@@ -5,7 +5,7 @@
 A simple Scalatra project template for the masses. Originally based on
 [Lauri Lehmijoki's template](https://github.com/laurilehmijoki/sbt-scalatra-skeleton).
 
-Clone it, make internetz.
+Clone it, make internetz, win.
 
 ## Features
 
