@@ -5,6 +5,8 @@
 A simple Scalatra project template for the masses. Originally based on
 [Lauri Lehmijoki's template](https://github.com/laurilehmijoki/sbt-scalatra-skeleton).
 
+Clone it, make internetz.
+
 ## Features
 
 * Scala 2.10.2
