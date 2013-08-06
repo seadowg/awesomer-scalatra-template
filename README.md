@@ -11,6 +11,10 @@ A simple Scalatra project template for the masses. Originally based on
 * Scalatra 2.2.1
 * Heroku deployable out of the box (also Cloud Foundry\*)
 
+*\*Cloud Foundry will require you to add `command: target/start` to your
+manifest.yml and specify the Scala build pack that can be found [here](https://github.com/heroku/heroku-buildpack-scala).*
+
+
 ## Requirements
 
 1. sbt
@@ -63,6 +67,3 @@ need to change this except to update the reference to the Servlet class name (wh
 Scalatra configuration class. More info [here](http://www.scalatra.org/guides/deployment/configuration.html).
 
 More about project structure for Scalatra apps can be found [here](http://www.scalatra.org/2.2/getting-started/project-structure.html).
-
-*\*Cloud Foundry will require you to add `command: target/start` to your
-manifest.yml and specify the Scala build pack that can be found [here](https://github.com/heroku/heroku-buildpack-scala).
