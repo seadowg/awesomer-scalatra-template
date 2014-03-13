@@ -13,9 +13,8 @@ Clone it, make internetz, win.
 * Scalatra 2.2.1
 * Heroku deployable out of the box (also Cloud Foundry\*)
 
-*\*Cloud Foundry will require you to add `command: target/start` to your
+\* *Cloud Foundry will require you to add `command: target/start` to your
 manifest.yml and specify the Scala build pack that can be found [here](https://github.com/heroku/heroku-buildpack-scala).*
-
 
 ## Requirements
 
